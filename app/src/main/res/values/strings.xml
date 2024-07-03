@@ -11,5 +11,10 @@
         <item>Item 3</item>
         <item>Item 4</item>
     </string-array>
-
+    <string-array name="spinner_item">
+        <item>Gaindakot</item>
+        <item>Chitwan</item>
+        <item>Kathmandu</item>
+        <item>Pokhara</item>
+    </string-array>
 </resources>
