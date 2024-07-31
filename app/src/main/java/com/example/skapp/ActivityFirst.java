@@ -20,8 +20,8 @@ public class ActivityFirst extends Activity {
 
                 //passing data using putExtra
                 i.putExtra("id", 001);
-                i.putExtra("name", "Suren");
-                i.putExtra("address", "Tanahun");
+                i.putExtra("name", "Sohan");
+                i.putExtra("address", "Gaindakot");
                 startActivity(i);
             }
         });
