@@ -20,7 +20,7 @@ public class ActivitySecond extends Activity {
 
         //Displaying received data in TextView
         TextView txt=findViewById(R.id.text2);
-        txt.setText("Id"+id+"\n"+"Name="+name+"\n"+"Address="+address);
+        txt.setText("Id="+id+"\n"+"Name="+name+"\n"+"Address="+address);
 
 
     }
