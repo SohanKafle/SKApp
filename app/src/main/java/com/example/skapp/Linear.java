@@ -1,3 +1,5 @@
+//Create a register page using Linear Layout.
+
 package com.example.skapp;
 
 import android.app.Activity;

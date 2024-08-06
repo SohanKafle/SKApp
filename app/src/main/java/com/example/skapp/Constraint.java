@@ -1,3 +1,5 @@
+//Create a register page using Constraint Layout.
+
 package com.example.skapp;
 
 import android.app.Activity;

@@ -1,3 +1,5 @@
+//Create a register page using Absolute Layout.
+
 package com.example.skapp;
 
 import android.app.Activity;

@@ -1,3 +1,5 @@
+//WAP to check the string is palindrome is not.
+
 package com.example.skapp;
 
 import android.app.Activity;

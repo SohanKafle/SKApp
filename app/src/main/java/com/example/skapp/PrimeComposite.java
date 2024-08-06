@@ -1,3 +1,5 @@
+//Create a activity to handle event to find out whether a number is prime or composite.
+
 package com.example.skapp;
 
 import android.app.Activity;

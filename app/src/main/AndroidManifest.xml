@@ -13,7 +13,7 @@
         android:theme="@style/Theme.SKApp"
         tools:targetApi="31" >
         <activity
-            android:name="com.example.skapp.fragmentmanager"
+            android:name="com.example.skapp.First_activity"
             android:exported="true"
             android:label="@string/app_name"
             tools:ignore="Instantiatable">

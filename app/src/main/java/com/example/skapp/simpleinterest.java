@@ -1,3 +1,5 @@
+//WAP to calculate Simple Interest.
+
 package com.example.skapp;
 
 import android.app.Activity;

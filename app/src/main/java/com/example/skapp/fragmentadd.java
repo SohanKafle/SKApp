@@ -1,3 +1,5 @@
+//WAP to wire widgets in fragment.
+
 package com.example.skapp;
 
 import android.os.Bundle;

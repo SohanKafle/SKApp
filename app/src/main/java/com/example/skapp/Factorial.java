@@ -1,3 +1,5 @@
+//WAP to calculate the factorial of a number.
+
 package com.example.skapp;
 
 import android.app.Activity;
