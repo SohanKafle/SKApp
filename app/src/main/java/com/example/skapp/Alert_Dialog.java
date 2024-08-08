@@ -6,7 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class AlertDialog extends Activity {
+import androidx.appcompat.app.AlertDialog;
+
+public class Alert_Dialog extends Activity {
     Button btnClick;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,7 +27,7 @@ public class AlertDialog extends Activity {
 
     public void showDialog(){
         AlertDialog.Builder builder = new AlertDialog.Builder
-                (AlertDialog.this);
+                (Alert_Dialog.this);
         builder.setTitle("Exit App");
         builder.setMessage("Do you want to exit App?");
         builder.setCancelable(true);

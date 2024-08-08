@@ -1,6 +1,7 @@
 package com.example.skapp;
 
 import android.os.Bundle;
+import android.view.ContextMenu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
@@ -8,7 +9,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class ContextMenu extends AppCompatActivity {
+public class ContextMenu1 extends AppCompatActivity {
     Button btnClick;
 
     @Override
