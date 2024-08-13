@@ -14,9 +14,7 @@ public class GridViewExample extends AppCompatActivity {
         setContentView(R.layout.grid_view);
         gridView =findViewById(R.id.mygrid);
 //creating string array
-        String names[]=
-
-                {"Sohan","Subash","Aakash","Bibek","Surendra"};
+        String names[]=  {"Sohan","Subash","Aakash","Bibek","Surendra"};
 //displaying list using ArrayAdapter
         ArrayAdapter<String> adapter=new ArrayAdapter<String>
                 (this,R.layout.grid_view_items,R.id.text,names);
